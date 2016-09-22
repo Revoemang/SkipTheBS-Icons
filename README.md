@@ -1,5 +1,5 @@
 # SkipTheBS-Icons
-These are Icons for the SkipTheBS Project.
+These are Icons for the <a href="https://github.com/girst/SkipTheBS">SkipTheBS Project</a>.
 
 The Icons were made for a Project called the SkipTheBS Project launched by girst. The Project is about creating a Extension which allows people to autoskip Sponsored Advertisements on YouTube Videos. 
 
